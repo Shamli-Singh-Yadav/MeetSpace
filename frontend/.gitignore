@@ -1,0 +1,9 @@
+# Frontend .gitignore
+node_modules/
+npm-debug.log
+.yarn-integrity
+.env.local
+.DS_Store
+dist/
+.vscode/
+*.swp
