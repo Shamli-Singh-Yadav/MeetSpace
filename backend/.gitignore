@@ -1,0 +1,10 @@
+# Backend .gitignore
+node_modules/
+npm-debug.log
+.env
+.env.local
+serviceAccountKey.json
+.DS_Store
+*.log
+.vscode/
+*.swp
